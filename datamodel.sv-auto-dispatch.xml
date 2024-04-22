@@ -96,7 +96,7 @@
 		</class>
 		<class id="lnkCustomerContractToService" _created_in="itop-service-mgmt" _delta="must_exist">
 			<fields>
-				<field id="provider_id" xsi:type="AttributeExternalField" _delta="define">
+				<field id="provider_id" xsi:type="AttributeExternalField" _delta="define_if_not_exists">
 					<extkey_attcode>customercontract_id</extkey_attcode>
 					<target_attcode>provider_id</target_attcode>
 				</field>

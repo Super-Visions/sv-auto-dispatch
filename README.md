@@ -22,7 +22,7 @@ This of course only if not yet dispatched or assigned in the meantime.
 Translations can be submitted via [Transifex][4].
 Please create a new issue if you want a new language to be added to the project.
 
-[1]:https://www.combodo.com/itop-193
+[1]:https://www.itophub.io/
 [2]:https://store.itophub.io/en_US/products/combodo-dispatch-incident
 [3]:https://store.itophub.io/en_US/products/combodo-dispatch-userrequest
 [4]:https://www.transifex.com/super-visions/sv-auto-dispatch
